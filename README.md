@@ -1,9 +1,9 @@
 __________________________________________________________________________________________________________
-### Eae! 👋
+### Yo! 👋
 
-- 📓 Estudando front-end
-- 💻 Perfil pessoal
-- 🔧 Trabalho e estudo então tenho pouca atividade
+- 📓 Estudying front-end
+- 💻 Personal Profile
+- 🔧 Work on half period and at school on morning, reason for low activity.
 
 <div>
   <a href="https://github.com/Allan_Bruno">
