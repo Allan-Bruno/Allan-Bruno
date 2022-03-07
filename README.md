@@ -5,9 +5,12 @@
 - 🔧 Work on half period and at school on morning, reason for low activity.
 
 <div>
+<h1>Contacts</h1>
 <p><img height="15px" width="15px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804</p>
 <p><img src="./assets/gmail-logo.svg" width="15px" height="15px"> allanbrunooliveiravasconcelos@gmail.com</p>
 </div>
+
+---
 
 <div>
   <a href="https://github.com/Allan_Bruno">
