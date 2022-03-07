@@ -6,7 +6,7 @@
 
 <div>
 <h1>Contacts</h1>
-<p><img height="15px" width="15px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804</p>
+<p><img height="20px" width="20px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804</p>
 <p><img src="./assets/gmail-logo.svg" width="15px" height="15px"> allanbrunooliveiravasconcelos@gmail.com</p>
 </div>
 
