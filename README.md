@@ -8,6 +8,7 @@
 <h1>Contacts</h1>
 <p><img height="20px" width="20px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804</p>
 <p><img src="./assets/gmail-logo.svg" width="20px" height="20px"> allanbrunooliveiravasconcelos@gmail.com</p>
+  [LinkedIn](https://www.linkedin.com/in/allan-bruno-oliveira-vasconcelos-659808191)
 </div>
 
 ---
