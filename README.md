@@ -6,10 +6,10 @@
 
 <div>
 <h1>Contacts</h1>
-<img src="./assets/gmail-logo.svg" width="20px" height="20px"><a href="mailto:allanbrunooliveiravasconcelos@gmail.com"> Email</a>
+<img src="./assets/gmail-logo.svg" width="20px" height="20px"> allanbrunooliveiravasconcelos@gmail.com
 <br>
 <img src="./assets/linkedin-icon.svg" width="20px" height="20px"><a href="https://www.linkedin.com/in/allan-bruno-oliveira-vasconcelos-659808191/" target="_blank"> LinkedIn</a><div>
-<p><img height="20px" width="20px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804</p>
+<img height="20px" width="20px"src="./assets/discord-logo.svg" alt="discord logo"> Allan Bruno#8804
 
 ---
 
