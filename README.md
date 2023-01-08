@@ -2,7 +2,6 @@
 
 - 📓 Estudying front-end
 - 💻 Personal Profile
-- 🔧 Work on half period and at school on morning, reason for low activity.
 
 <div>
 <h1>Contacts</h1>
